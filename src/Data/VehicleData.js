@@ -144,7 +144,7 @@ module.exports = [
         "scooterNo": null,
         "flatNo": "G-304",
         "Name": "Pathak",
-        "phoneNo": 999712725
+        "phoneNo": 9999712725
     },
     {
         "carNo": "0010",
